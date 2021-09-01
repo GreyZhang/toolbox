@@ -10,3 +10,8 @@
 *** 查看系统任务等运行状态
 - htop
 - 退出按q
+*** tmux
+- 启动：tmux
+- 进入后台： C-b d
+- 切换到第n个对话：tmux attach-session –t n
+- 查看所有的对话：tmux list-session
