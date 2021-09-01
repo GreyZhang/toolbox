@@ -7,3 +7,5 @@
 - 本地拷贝到服务器：scp file_name username@ip_address:/mnt/xxx
 - 服务器拷贝到本地：scp username@ip_address:/path/file_name target_path
 - 如果有目录，增加 -r的选项
+*** 查看系统任务等运行状态
+- htop
