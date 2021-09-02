@@ -14,4 +14,5 @@
 - 启动：tmux
 - 进入后台： C-b d
 - 切换到第n个对话：tmux attach-session –t n
+- 只有一个对话的时候恢复对话： tmux attach
 - 查看所有的对话：tmux list-session
