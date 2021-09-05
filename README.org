@@ -18,3 +18,6 @@
 - 查看所有的对话：tmux list-session，更为简单的方式为tmux ls
 *** 查看磁盘信息
 - lsblk，之后可以管理员权限下mount
+*** 查看与杀死进程
+- 查看进程： ps -A
+- 杀死进程： kill -9 PID
