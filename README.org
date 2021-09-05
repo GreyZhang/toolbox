@@ -15,6 +15,6 @@
 - 进入后台： C-b d
 - 切换到第n个对话：tmux attach-session –t n
 - 只有一个对话的时候恢复对话： tmux attach
-- 查看所有的对话：tmux list-session
+- 查看所有的对话：tmux list-session，更为简单的方式为tmux ls
 *** 查看磁盘信息
 - lsblk，之后可以管理员权限下mount
