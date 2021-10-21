@@ -1,5 +1,5 @@
 * 工具箱使用查询
-- 我自己常用的工具，简单的小栗子便于自己能够快速查询。
+- 我自己常用的工具，简单的小例子便于自己能够快速查询。
 ** 工具清单
 *** qb的启动
 - qbittorrent-nox -d
@@ -21,3 +21,5 @@
 *** 查看与杀死进程
 - 查看进程： ps -A
 - 杀死进程： kill -9 PID
+*** pandoc
+- 将org-mode文件转换成word: pandoc -o demo.docx demo.org
