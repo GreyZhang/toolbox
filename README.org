@@ -35,3 +35,18 @@ git config --global user.email "zhangsan@lisi.com"
 - 把当前的变化推送到版本库： git push
 - 查看变化的文件： git status
 - 忽略部分文件可以使用配置文件： .gitignore
+- 更新当前的版本库：
+# cd to my git project dir
+cd ~/git/xah_emacs_init
+
+# pull from a remote repository
+git pull https://github.com/xxxx/xxxx
+- 强制更新当前版本库：
+# discard local changes
+git reset --hard
+
+# delete all untracked local files and dirs. (DANGEROUS)
+git clean -xdf
+
+git pull remote_server_or_name
+- 归档.git以外的文件，切换到仓库目录： git archive -o ../tartget.zip HEAD
