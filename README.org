@@ -34,3 +34,4 @@ git config --global user.email "zhangsan@lisi.com"
 - 更新当前的版本库： git pull
 - 把当前的变化推送到版本库： git push
 - 查看变化的文件： git status
+- 忽略部分文件可以使用配置文件： .gitignore
