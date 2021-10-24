@@ -25,3 +25,12 @@
 - 将org-mode文件转换成word: pandoc -o demo.docx demo.org
 *** 查看文件夹的大小
 - du -sh dirname
+*** git三板斧
+- 配置用户信息 git config --global user.name "zhangsan" \\
+git config --global user.email "zhangsan@lisi.com"
+- 创建一个工程： git init
+- 把当前目录以及子目录中的变化文件加入缓冲区： git add .
+- 提交缓冲： git commit -m"commit log"
+- 更新当前的版本库： git pull
+- 把当前的变化推送到版本库： git push
+- 查看变化的文件： git status
