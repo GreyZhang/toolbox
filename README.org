@@ -23,3 +23,5 @@
 - 杀死进程： kill -9 PID
 *** pandoc
 - 将org-mode文件转换成word: pandoc -o demo.docx demo.org
+*** 查看文件夹的大小
+- du -sh dirname
