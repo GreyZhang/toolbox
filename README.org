@@ -50,3 +50,7 @@ git clean -xdf
 
 git pull remote_server_or_name
 - 归档.git以外的文件，切换到仓库目录： git archive -o ../tartget.zip HEAD
+*** tar打包解压
+- 打包 tar cf demo.tar x y z， 如果要显示细节， tar cvf demo.tar x y z。
+- 打包目录 tar czf demo.tar demo_dir，如果要显示细节， tar czvf demo.tar demo_dir。
+- 解压 tar xf demo.tar， 如果要显示细节， tar xvf demo.tar
