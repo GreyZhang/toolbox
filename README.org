@@ -54,3 +54,5 @@ git pull remote_server_or_name
 - 打包 tar cf demo.tar x y z， 如果要显示细节， tar cvf demo.tar x y z。
 - 打包目录 tar czf demo.tar demo_dir，如果要显示细节， tar czvf demo.tar demo_dir。
 - 解压 tar xf demo.tar， 如果要显示细节， tar xvf demo.tar
+*** MD5校验
+- md5sum file_name
