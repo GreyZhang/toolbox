@@ -56,3 +56,7 @@ git pull remote_server_or_name
 - 解压 tar xf demo.tar， 如果要显示细节， tar xvf demo.tar
 *** MD5校验
 - md5sum file_name
+*** github配置ssh
+- ssh-keygen -t rsa -C "youremail@example.com" 生成新的key
+- 相关的key默认在.ssh中id_rsa.pub中
+- 把上面的key的信息粘贴到github setting中的ssh中新创建的条目中
