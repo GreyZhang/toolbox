@@ -60,3 +60,5 @@ git pull remote_server_or_name
 - ssh-keygen -t rsa -C "youremail@example.com" 生成新的key
 - 相关的key默认在.ssh中id_rsa.pub中
 - 把上面的key的信息粘贴到github setting中的ssh中新创建的条目中
+*** ffmpeg
+- 视频转音频： ffmpeg -i input.mp4 output.mp3
