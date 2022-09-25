@@ -64,3 +64,6 @@ git pull remote_server_or_name
 - 视频转音频： ffmpeg -i input.mp4 output.mp3
 *** 7z
 - [[https://blog.csdn.net/grey_csdn/article/details/125986742][1312_适用7z命令进行压缩与解压]]
+*** pdfkt
+- pdf文档的拆分以及拼接组合
+- 笔记： [[https://blog.csdn.net/grey_csdn/article/details/127036218][1470_Linux下使用pdftk进行pdf文件的页面提取以及合并]]
