@@ -67,3 +67,6 @@ git pull remote_server_or_name
 *** pdfkt
 - pdf文档的拆分以及拼接组合
 - 笔记： [[https://blog.csdn.net/grey_csdn/article/details/127036218][1470_Linux下使用pdftk进行pdf文件的页面提取以及合并]]
+*** wget
+- 一款命令行下比较好用的下载小工具
+- 使用示范： wget -nd -r -l1 --no-parent http://xxxx/doc   实现下载 http://xxxx/doc 目录下的所有文件
