@@ -70,3 +70,6 @@ git pull remote_server_or_name
 *** wget
 - 一款命令行下比较好用的下载小工具
 - 使用示范： wget -nd -r -l1 --no-parent http://xxxx/doc   实现下载 http://xxxx/doc 目录下的所有文件
+*** wkhtmltopdf
+- 把网页转换成pdf文件
+- 应用笔记： [[https://blog.csdn.net/grey_csdn/article/details/128793609][1604_linux环境下使用命令行把网页转换成pdf]]
