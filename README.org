@@ -73,3 +73,7 @@ git pull remote_server_or_name
 *** wkhtmltopdf
 - 把网页转换成pdf文件
 - 应用笔记： [[https://blog.csdn.net/grey_csdn/article/details/128793609][1604_linux环境下使用命令行把网页转换成pdf]]
+*** gdb
+- 断点， b main可以断点打在main，b *0x1000c可以把断点打在指定的地址
+- c，继续执行
+- si，执行一条指令，si 10可以执行10条指令，后面的数字10可以根据自己的需要进行修改
