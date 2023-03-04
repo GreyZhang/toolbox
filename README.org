@@ -77,3 +77,7 @@ git pull remote_server_or_name
 - 断点， b main可以断点打在main，b *0x1000c可以把断点打在指定的地址
 - c，继续执行
 - si，执行一条指令，si 10可以执行10条指令，后面的数字10可以根据自己的需要进行修改
+- info reg，可以查看寄存器的信息
+*** pdftoppm
+- 把pdf按图片格式提取出来
+- 应用笔记： [[https://blog.csdn.net/grey_csdn/article/details/129331074][1634_linux中把pdf拆分成独立的图片文件]]
