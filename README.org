@@ -83,3 +83,5 @@ git pull remote_server_or_name
 *** pdftoppm
 - 把pdf按图片格式提取出来
 - 应用笔记： [[https://blog.csdn.net/grey_csdn/article/details/129331074][1634_linux中把pdf拆分成独立的图片文件]]
+*** VirtualBox
+- 应用笔记: [[https://blog.csdn.net/grey_csdn/article/details/133210645][1796_通过vmware打开VirtualBox虚拟机文件]]
