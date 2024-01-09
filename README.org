@@ -87,3 +87,5 @@ git pull remote_server_or_name
 - 应用笔记: [[https://blog.csdn.net/grey_csdn/article/details/133210645][1796_通过vmware打开VirtualBox虚拟机文件]]
 *** find
 - 笔记： [[https://blog.csdn.net/grey_csdn/article/details/135049834][1852_bash中的find应用扩展]]
+*** SHA512校验和
+- 笔记： [[https://blog.csdn.net/grey_csdn/article/details/135489215][1877_SHA512校验的使用]]
